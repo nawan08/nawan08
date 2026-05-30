@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome Completo]! 👋
+# Olá, eu sou o [Nawan Oliveira Santos]! 👋
 
 ## 🚀 Sobre Mim
 Sou estudante do curso **Técnico em Informática para Internet** e estou focado no desenvolvimento Web. Atualmente, tenho um domínio sólido da base do **JavaScript**, criando aplicações dinâmicas e estruturadas, e estou expandindo meus horizontes para o ecossistema fullstack.
